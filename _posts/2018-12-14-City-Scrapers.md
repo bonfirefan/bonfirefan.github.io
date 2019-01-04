@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018: Year in Review
+title: City Scrapers in Pittsburgh: Fall 2018
 ---
 
 # 2019: New Year Scrapings
