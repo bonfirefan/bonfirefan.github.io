@@ -1,6 +1,8 @@
 ---
 layout: post
 title: City Scrapers in Pittsburgh: Fall 2018
+date: 2018-12-14
+excerpt: Prior to the "Future of Civic Tech" event, we only had the capacity to host in a CMU Heinz academic setting. There was a natural fit for Information Systems and Policy/Analytics students looking for a project to learn from while contributing to an open source project. After encountering a warm welcome in the Pittsburgh civic-minded community of technologists, academics, journalists and public servants, the community really took off.
 ---
 
 # 2019: New Year Scrapings
