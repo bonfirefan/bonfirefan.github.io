@@ -8,4 +8,4 @@ Former transit data scientist, current policy and data grad student living in Pi
 
 ### Contact me
 
-[bonnieyfan+hello@gmail.com](mailto:bonnieyfan+hello@gmail.com@domain.com)
+[bonnieyfan+hello@gmail.com](mailto:bonnieyfan+hello@gmail.com)
